@@ -1,2 +1,2 @@
 # gibbia.io
-#Welcome To The AMD Homepage
+Welcome To The AMD Homepage
