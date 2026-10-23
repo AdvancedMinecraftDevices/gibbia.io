@@ -1,5 +1,8 @@
 body {
-  background-color: #7AFF7A;
+  background-color: lightgreen;
   color: black;
-  font-family: Jetbrains-Mono;
+  font-family: Jetbrains-Mono, serif;
+}
+h2 {
+  color: red;
 }
